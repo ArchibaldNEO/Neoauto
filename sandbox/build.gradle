@@ -1,11 +1,13 @@
 apply plugin: 'java'
 apply plugin: 'application'
-mainClassName = "MP"
+mainClassName = "ru.stqa.pft.sandbox.MP"
 
 repositories {
     mavenCentral()
 }
 
 dependencies {
-    implementation("org.testng:testng:7.1.0")
+
+    implementation 'org.testng:testng:7.1.0'
+    //compile 'org.testng:testng:7.1.0'
 }
