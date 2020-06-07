@@ -20,24 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a12b1093-da93-49e7-bc10-566ea3868118" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sandbox/.idea/sandbox.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/build/classes/java/test/ru/stqa/pft/sandbox/SquareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/build/classes/java/test/ru/stqa/pft/sandbox/SquareTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/out/test/classes/ru/stqa/pft/sandbox/SquareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/out/test/classes/ru/stqa/pft/sandbox/SquareTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbook_web-tests/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_web-tests/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbook_web-tests/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_web-tests/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbook_web-tests/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_web-tests/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbook_web-tests/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_web-tests/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbook_web-tests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_web-tests/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,28 +72,50 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox/build.gradle" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.6413793" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager" selected="TestNG.UntitledTestCase">
-    <configuration name="Neoauto" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.GroupCreationTests">
+    <configuration name="GroupCreationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook_web-tests" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.addressbook.GroupCreationTests&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
-          <list />
+          <list>
+            <option value=":test" />
+          </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GroupCreationTests.testGroupCreationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook_web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.addressbook.GroupCreationTests.testGroupCreationTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <configuration name="UntitledTestCase" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -162,10 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.GroupCreationTests" />
+        <item itemvalue="Gradle.GroupCreationTests.testGroupCreationTests" />
         <item itemvalue="TestNG.UntitledTestCase" />
         <item itemvalue="TestNG.UntitledTestCase (1)" />
         <item itemvalue="Gradle.UntitledTestCase" />
-        <item itemvalue="Gradle.Neoauto" />
       </list>
     </recent_temporary>
   </component>
@@ -200,30 +212,35 @@
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587498378629" />
     <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1591531212231" />
-    <state width="1877" height="38" key="GridCell.Tab.0.bottom" timestamp="1587372321589">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="442" key="GridCell.Tab.0.bottom" timestamp="1591534185453">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="38" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587372321589" />
-    <state width="1877" height="38" key="GridCell.Tab.0.center" timestamp="1587372321589">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="442" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591534185453" />
+    <state width="1877" height="442" key="GridCell.Tab.0.center" timestamp="1591534185453">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="38" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587372321589" />
-    <state width="1877" height="38" key="GridCell.Tab.0.left" timestamp="1587372321589">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="442" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591534185453" />
+    <state width="1877" height="442" key="GridCell.Tab.0.left" timestamp="1591534185453">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="38" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587372321589" />
-    <state width="1877" height="38" key="GridCell.Tab.0.right" timestamp="1587372321589">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="442" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591534185453" />
+    <state width="1877" height="442" key="GridCell.Tab.0.right" timestamp="1591534185453">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="38" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587372321589" />
-    <state x="880" y="110" key="SettingsEditor" timestamp="1591531215541">
+    <state width="1877" height="442" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591534185453" />
+    <state x="664" y="192" key="SettingsEditor" timestamp="1591532902182">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587364761154" />
-    <state x="880" y="110" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1591531215541" />
-    <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1587364449455">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="664" y="192" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1591532902182" />
+    <state x="776" y="301" key="chooseDestDirectoryDialog" timestamp="1591532117722">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="776" y="298" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587364449455" />
+    <state x="776" y="301" key="chooseDestDirectoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591532117722" />
   </component>
 </project>

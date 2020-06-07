@@ -1,6 +1,5 @@
 apply plugin: 'java'
-apply plugin: 'application'
-mainClassName = "ru.stqa.pft.sandbox.MP"
+
 
 repositories {
     mavenCentral()
@@ -9,5 +8,12 @@ repositories {
 dependencies {
 
     implementation 'org.testng:testng:7.1.0'
-    //compile 'org.testng:testng:7.1.0'
+    implementation 'org.seleniumhq.selenium:selenium-java:4.0.0-alpha-6'
+    implementation 'org.seleniumhq.selenium:selenium-chrome-driver:4.0.0-alpha-6'
+    implementation 'io.github.bonigarcia:webdrivermanager:4.0.0'
+}
+
+test {
+    useTestNG()
+    scanForTestClasses = false //this one
 }
