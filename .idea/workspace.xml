@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a12b1093-da93-49e7-bc10-566ea3868118" name="Default Changelist" comment="" />
+    <list default="true" id="a12b1093-da93-49e7-bc10-566ea3868118" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbook_web-tests/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_web-tests/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbook_web-tests/src/test/java/ru/stqa/pft/addressbook/ContactCreationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_web-tests/src/test/java/ru/stqa/pft/addressbook/ContactCreationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +102,25 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="ContactCreationTests.testContactCreationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook_web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.pft.addressbook.ContactCreationTests.testContactCreationTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="GroupCreationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -155,30 +178,13 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="UntitledTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Neoauto.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.sft.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.sft" />
-      <option name="MAIN_CLASS_NAME" value="ru.sft.UntitledTestCase" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.ContactCreationTests" />
+        <item itemvalue="Gradle.ContactCreationTests.testContactCreationTests" />
         <item itemvalue="Gradle.GroupCreationTests.testGroupCreation" />
         <item itemvalue="Gradle.GroupCreationTests" />
         <item itemvalue="Gradle.GroupCreationTests.testGroupCreationTests" />
-        <item itemvalue="TestNG.UntitledTestCase" />
       </list>
     </recent_temporary>
   </component>
@@ -213,26 +219,26 @@
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587498378629" />
     <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1591531212231" />
-    <state width="916" height="449" key="GridCell.Tab.0.bottom" timestamp="1591536093534">
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom" timestamp="1591728983591">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="38" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587372321589" />
-    <state width="916" height="449" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591536093534" />
-    <state width="916" height="449" key="GridCell.Tab.0.center" timestamp="1591536093534">
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591728983591" />
+    <state width="1877" height="330" key="GridCell.Tab.0.center" timestamp="1591728983590">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="38" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587372321589" />
-    <state width="916" height="449" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591536093534" />
-    <state width="916" height="449" key="GridCell.Tab.0.left" timestamp="1591536093534">
+    <state width="1877" height="330" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591728983590" />
+    <state width="1877" height="330" key="GridCell.Tab.0.left" timestamp="1591728983590">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="38" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587372321589" />
-    <state width="916" height="449" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591536093534" />
-    <state width="916" height="449" key="GridCell.Tab.0.right" timestamp="1591536093534">
+    <state width="1877" height="330" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591728983590" />
+    <state width="1877" height="330" key="GridCell.Tab.0.right" timestamp="1591728983590">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="38" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587372321589" />
-    <state width="916" height="449" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591536093534" />
+    <state width="1877" height="330" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591728983590" />
     <state x="153" y="156" width="654" height="735" key="RefactorJ.IntroduceParameterObject" timestamp="1591536423267">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -251,9 +257,9 @@
     </state>
     <state x="776" y="298" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587364449455" />
     <state x="776" y="301" key="chooseDestDirectoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591532117722" />
-    <state x="-7" y="0" width="974" height="1050" key="extract.method.dialog" timestamp="1591536065377">
+    <state x="-7" y="0" width="974" height="1050" key="extract.method.dialog" timestamp="1591728761590">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="-7" y="0" width="974" height="1050" key="extract.method.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591536065377" />
+    <state x="-7" y="0" width="974" height="1050" key="extract.method.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1591728761590" />
   </component>
 </project>

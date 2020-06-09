@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.stqa.pft.addressbook.ContactCreationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-07T20:01:29" hostname="DESKTOP-7PR26M3" time="2.974">
+<testsuite name="ru.stqa.pft.addressbook.ContactCreationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-09T19:00:21" hostname="DESKTOP-7PR26M3" time="2.545">
   <properties/>
-  <testcase name="testContactCreationTests" classname="ru.stqa.pft.addressbook.ContactCreationTests" time="2.974"/>
+  <testcase name="testContactCreationTests" classname="ru.stqa.pft.addressbook.ContactCreationTests" time="2.545"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 33990
+Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 38152
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-июн. 08, 2020 12:01:29 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+июн. 09, 2020 11:00:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>
