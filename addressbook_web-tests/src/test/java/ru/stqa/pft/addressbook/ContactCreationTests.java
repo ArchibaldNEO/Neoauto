@@ -25,9 +25,17 @@ public class ContactCreationTests {
     public void testContactCreationTests() throws Exception {
         addNewContact();
         fillContactForm(new ContactData("Artem", "Sergeevich", "Skvortsov", "Archi", "Neoflex", "Neo", "6", "December", "1996", "Saratov"));
+        createNewContact();
+        returnHomePage();
+    }
+
+    private void returnHomePage() {
+        wd.findElement(By.linkText("home page")).click();
+    }
+
+    private void createNewContact() {
         wd.findElement(By.name("theform")).click();
         wd.findElement(By.xpath("(//input[@name='submit'])[2]")).click();
-        wd.findElement(By.linkText("home page")).click();
     }
 
     private void fillContactForm(ContactData contactData) {

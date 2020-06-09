@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a12b1093-da93-49e7-bc10-566ea3868118" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addressbook_web-tests/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_web-tests/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/addressbook_web-tests/src/test/java/ru/stqa/pft/addressbook/ContactCreationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook_web-tests/src/test/java/ru/stqa/pft/addressbook/ContactCreationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +80,7 @@
     <property name="project.structure.side.proportion" value="0.6413793" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager" selected="Gradle.ContactCreationTests">
+  <component name="RunManager" selected="Gradle.ContactCreationTests.testContactCreationTests">
     <configuration name="ContactCreationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -180,8 +178,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ContactCreationTests" />
         <item itemvalue="Gradle.ContactCreationTests.testContactCreationTests" />
+        <item itemvalue="Gradle.ContactCreationTests" />
         <item itemvalue="Gradle.GroupCreationTests.testGroupCreation" />
         <item itemvalue="Gradle.GroupCreationTests" />
         <item itemvalue="Gradle.GroupCreationTests.testGroupCreationTests" />
@@ -219,30 +217,30 @@
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587498378629" />
     <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1591531212231" />
-    <state width="1877" height="330" key="GridCell.Tab.0.bottom" timestamp="1591728983591">
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom" timestamp="1591729368820">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="38" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587372321589" />
-    <state width="1877" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591728983591" />
-    <state width="1877" height="330" key="GridCell.Tab.0.center" timestamp="1591728983590">
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591729368820" />
+    <state width="1877" height="330" key="GridCell.Tab.0.center" timestamp="1591729368820">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="38" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587372321589" />
-    <state width="1877" height="330" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591728983590" />
-    <state width="1877" height="330" key="GridCell.Tab.0.left" timestamp="1591728983590">
+    <state width="1877" height="330" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591729368820" />
+    <state width="1877" height="330" key="GridCell.Tab.0.left" timestamp="1591729368820">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="38" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587372321589" />
-    <state width="1877" height="330" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591728983590" />
-    <state width="1877" height="330" key="GridCell.Tab.0.right" timestamp="1591728983590">
+    <state width="1877" height="330" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591729368820" />
+    <state width="1877" height="330" key="GridCell.Tab.0.right" timestamp="1591729368820">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="38" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587372321589" />
-    <state width="1877" height="330" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591728983590" />
-    <state x="153" y="156" width="654" height="735" key="RefactorJ.IntroduceParameterObject" timestamp="1591536423267">
+    <state width="1877" height="330" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591729368820" />
+    <state x="674" y="264" width="654" height="746" key="RefactorJ.IntroduceParameterObject" timestamp="1591729087123">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="153" y="156" width="654" height="735" key="RefactorJ.IntroduceParameterObject/0.0.1920.1050@0.0.1920.1050" timestamp="1591536423267" />
+    <state x="674" y="264" width="654" height="746" key="RefactorJ.IntroduceParameterObject/0.0.1920.1050@0.0.1920.1050" timestamp="1591729087123" />
     <state x="295" y="462" key="ReplaceDuplicatesPrompt" timestamp="1591535757935">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
